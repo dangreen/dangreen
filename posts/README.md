@@ -14,3 +14,4 @@
 - How to build tree-shakeable JavaScript libraries
   - [Source (en)](how-to-build-tree-shakeable-javascript-libraries/en.md)
   - [Cube blog (en)](https://cube.dev/blog/how-to-build-tree-shakeable-javascript-libraries)
+  - [dev.to (en)](https://dev.to/cubejs/how-to-build-tree-shakeable-javascript-libraries-35fa)
