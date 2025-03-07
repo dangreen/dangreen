@@ -4,8 +4,6 @@
 
 Веб-разработчик
 
-**Дата рождения:** 04.04.1995
-
 **Локация:** Батуми, Грузия
 
 **Email:** [danon0404@gmail.com](mailto:danon0404@gmail.com)
@@ -14,7 +12,9 @@
 
 **Ссылки:** [Linkedin](https://www.linkedin.com/in/dangreen58/), [GitHub проекты](https://github.com/TrigenSoftware), [GitHub профиль](https://github.com/dangreen)
 
-**Английский:** B1-B2
+**Английский:** B2
+
+*[Cкачать резюме PDF-файлом](https://raw.githubusercontent.com/dangreen/dangreen/refs/heads/main/Daniil-Onoshko-CV.pdf)*
 
 ## Оглавление
 

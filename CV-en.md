@@ -4,8 +4,6 @@
 
 Web Developer
 
-**Date of birth:** 04.04.1995
-
 **Location:** Batumi, Georgia
 
 **Email:** [danon0404@gmail.com](mailto:danon0404@gmail.com)
@@ -14,7 +12,9 @@ Web Developer
 
 **Links:** [Linkedin](https://www.linkedin.com/in/dangreen58/), [GitHub Projects](https://github.com/TrigenSoftware), [GitHub Profile](https://github.com/dangreen)
 
-**Languages:** English (B1-B2), Russian (native)
+**Languages:** English (B2), Russian (native)
+
+*[Download CV as PDF](https://raw.githubusercontent.com/dangreen/dangreen/refs/heads/main/Daniil-Onoshko-CV.pdf)*
 
 ## Table of Contents
 
