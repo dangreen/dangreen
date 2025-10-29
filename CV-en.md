@@ -62,15 +62,26 @@ While studying Delphi, I was eager to apply my knowledge to write a program for 
 **Maintainer:**
 
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) ([PRs](https://github.com/conventional-changelog/conventional-changelog/pulls?page=1&q=is%3Apr+is%3Aclosed+author%3Adangreen)) — a tool to generate changelogs and release notes from a project's commit messages and metadata. Two years ago, I became the maintainer of this project. Since then, I have updated the project's infrastructure and refactored almost all packages in the monorepo: some packages have significantly changed their structure and API; [almost all have been migrated to TypeScript](https://github.com/conventional-changelog/conventional-changelog/issues/1099); old and unnecessary dependencies (such as [lodash](https://www.npmjs.com/package/lodash), [Q](https://www.npmjs.com/package/q), etc.) have been removed.
+- [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) — React wrapper for Chart.js.
+- [canvg](https://github.com/canvg/canvg) — SVG rendering in Canvas. Rewrote the project from a single JS file with 3k lines to TypeScript with a modular structure; added support for OffscreenCanvas and working in workers; updated the project's infrastructure.
 
 **Author:**
 
 - [browserslist-useragent-regexp](https://github.com/browserslist/browserslist-useragent-regexp) — a utility to compile [browserslist query](https://github.com/browserslist/browserslist#queries) to a regex to test browser useragent
 - [ua-regexes-lite](https://github.com/TrigenSoftware/ua-regexes-lite) — a lite useragent regexes collection. Used in browserslist-useragent-regexp
-- [simple-github-release](https://github.com/TrigenSoftware/simple-release-tools/tree/main/packages/simple-github-release) — a simple tool to create GitHub releases. It reads the latest notes from the changelog and creates a release on the GitHub repository with them.
+- [simple-release](https://github.com/TrigenSoftware/simple-release) — a utility to automate version bumping, changelog generation, and package publishing using conventional commits
+- [masonry-grid](https://github.com/TrigenSoftware/masonry-grid) - a lightweight library for creating a masonry-style grid in pure JavaScript
 - [argue-cli](https://github.com/TrigenSoftware/Argue) — a thin and strongly typed CLI arguments parser for Node.js
 
 ## Employment History
+
+### Senior Frontend Engineer, Social Discovery Group
+
+**March 2025 - October 2025**
+
+Developer in the product team. Worked on developing and maintaining a web application using Next.js.
+
+**Stack:** JavaScript, TypeScript, HTML/CSS, React, Next.js, Redux Toolkit Query, Storybook, Node.js.
 
 ### Senior Frontend Engineer, Visme
 

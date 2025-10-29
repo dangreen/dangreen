@@ -63,15 +63,26 @@
 **Мейнтейнер:**
 
 - [conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) ([PRs](https://github.com/conventional-changelog/conventional-changelog/pulls?page=1&q=is%3Apr+is%3Aclosed+author%3Adangreen)) - утилита для генерации changelog'а из сообщений коммитов и метаданных проекта. Два года назад я стал мейнтейнером этого проекта. С тех пор обновил инфраструктуру проекта и отрефакторил почти все пакеты из монорепозитория: у некоторых пакетов значительно изменилась структура и API; [почти все были переведены на TypeScript](https://github.com/conventional-changelog/conventional-changelog/issues/1099); были удалены старые и лишние зависимости (например [lodash](https://www.npmjs.com/package/lodash), [Q](https://www.npmjs.com/package/q) и т.п.).
+- [react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React-обертка для Chart.js.
+- [canvg](https://github.com/canvg/canvg) - рендеринг SVG в Canvas. Переписал проект с одного JS-файла на 3к строк на TypeScript с модульной структурой; добавил поддержку OffscreenCanvas и работу в воркерах; обновил инфраструктуру проекта.
 
 **Автор:**
 
 - [browserslist-useragent-regexp](https://github.com/browserslist/browserslist-useragent-regexp) - утилита для компиляции [browserslist-запроса](https://github.com/browserslist/browserslist#queries) в регулярное выражение для проверки user-agent строки браузера
 - [ua-regexes-lite](https://github.com/TrigenSoftware/ua-regexes-lite) - легковесная коллекция регулярных выражений для user-agent строк браузеров. Используется в browserslist-useragent-regexp
-- [simple-github-release](https://github.com/TrigenSoftware/simple-release-tools/tree/main/packages/simple-github-release) - простой инструмент для создания релизов на GitHub. Он читает последние заметки из changelog'а и создает с ними релиз в репозитории
+- [simple-release](https://github.com/TrigenSoftware/simple-release) - утилита для автоматизации процесса бампинга версии, генерации changelog'а и публикации пакетов используя conventional commits
+- [masonry-grid](https://github.com/TrigenSoftware/masonry-grid) - легковесная библиотека для создания сетки в стиле masonry на чистом JavaScript
 - [argue-cli](https://github.com/TrigenSoftware/Argue) - легкий и строго типизированный парсер аргументов командной строки для Node.js
 
 ## Опыт работы
+
+### Senior Frontend Engineer, Social Discovery Group
+
+**Март 2025 - Октябрь 2025**
+
+Разработчик в продуктовой команде. Занимался разработкой и поддержкой веб-приложения на Next.js.
+
+**Стэк:** JavaScript, TypeScript, HTML/CSS, React, Next.js, Redux Toolkit Query, Storybook, Node.js.
 
 ### Senior Frontend Engineer, Visme
 
